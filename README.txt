@@ -1,3 +1,4 @@
-1). First Download the weight from https://pjreddie.com/media/files/yolov3.weights
-2). After downloading place yolov3.weights file in input folder.
-3). Now run Yolo_v3_Object_Detection_in_Tensorflow.ipynb file
+1). First Download the model from :---->    https://github.com/OlafenwaMoses/ImageAI/releases/tag/1.0/
+2). After downloading place this model in model folder.
+   
+   Happy Object detection.
